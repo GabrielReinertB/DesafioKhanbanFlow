@@ -55,7 +55,7 @@ O servidor estará em execução e você poderá acessar o projeto em http://loc
 Na página de login do aplicativo, use o seguinte email e senha para fazer login como administrador:
 ```shell
 Email: admin@admin.com
-Senha: admin (Essas credenciais de login foram adicionadas durante o processo de inserção de dados no passo 5)
+Senha: admin (Essas credenciais de login foram adicionadas durante a migration)
 ```
 
 Como Desenvolver
