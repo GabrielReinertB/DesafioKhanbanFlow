@@ -40,6 +40,11 @@ Execute o seguinte comando para criar as tabelas do banco de dados e preenchê-l
 php artisan migrate --seed
 ```
 
+Gere a chave de api key do projeto
+```shell
+php artisan key:generate
+```
+
 Inicie o servidor de desenvolvimento do Laravel com o seguinte comando:
 ```shell
 php artisan serve
