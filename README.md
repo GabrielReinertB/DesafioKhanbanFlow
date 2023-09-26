@@ -1,8 +1,11 @@
 Tela de Login
 ![image](https://github.com/GabrielReinertB/DesafioKhanbanFlow/assets/12136092/de7948e6-bafd-43d8-b2ff-d5733d61b525)
 
-index depois do login
+Tela de index depois do login
 ![image](https://github.com/GabrielReinertB/DesafioKhanbanFlow/assets/12136092/b85aec75-3820-44ba-a414-1538b90d725c)
+
+Tela do board khanban
+![image](https://github.com/GabrielReinertB/DesafioKhanbanFlow/assets/12136092/f0839410-d885-4664-b571-ecccb9b64a99)
 
 
 
