@@ -1,3 +1,5 @@
+![image](https://github.com/GabrielReinertB/DesafioKhanbanFlow/assets/12136092/88c46c7a-8c3f-4f29-ad07-4c379cc4472f)
+
 # DesafioKhanbanFlow
 Disponibilizado para entrega de um desafio... ainda não está totalmente pronto.
 
