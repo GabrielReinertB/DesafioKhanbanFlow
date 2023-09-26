@@ -1,7 +1,6 @@
 # DesafioKhanbanFlow
 Disponibilizado para entrega de um desafio... ainda não está totalmente pronto.
 
-
 # KhanbanFlow
 
 O KhanbanFlow é um aplicativo de gerenciamento de projetos e acompanhamento de tarefas construído com o Laravel.
@@ -23,9 +22,11 @@ Crie um novo banco de dados PostgreSQL usando sua ferramenta de gerenciamento de
 Faça uma cópia do arquivo .env.example e renomeie-o para .env. Abra o arquivo .env e insira suas credenciais de banco de dados.
 
 Execute o seguinte comando para criar as tabelas do banco de dados e preenchê-las com dados de exemplo:
+```shell
 php artisan migrate --seed
 
 Inicie o servidor de desenvolvimento do Laravel com o seguinte comando:
+```shell
 php artisan serve
 
 O servidor estará em execução e você poderá acessar o projeto em http://localhost:8000 (ou na porta que você configurou).
