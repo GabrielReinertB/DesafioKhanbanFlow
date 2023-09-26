@@ -24,10 +24,11 @@ Faça uma cópia do arquivo .env.example e renomeie-o para .env. Abra o arquivo 
 Execute o seguinte comando para criar as tabelas do banco de dados e preenchê-las com dados de exemplo:
 ```shell
 php artisan migrate --seed
-
+```
 Inicie o servidor de desenvolvimento do Laravel com o seguinte comando:
 ```shell
 php artisan serve
+```
 
 O servidor estará em execução e você poderá acessar o projeto em http://localhost:8000 (ou na porta que você configurou).
 
